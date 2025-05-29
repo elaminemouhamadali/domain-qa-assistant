@@ -1,0 +1,5 @@
+The Multispectral Imager (MSI) aboard the ESA (European Space Agency) Sentinel-2 series of satellites is a wide-swath, high-resolution, multi-spectral imaging sensor supporting Copernicus Land Monitoring studies. Its combination of spectral bands enables a wide range of uses, including the monitoring of vegetation, soil, and water cover and observing inland waterways and coastal areas.
+
+Sentinel-2 MSI samples 13 spectral bands at different spatial resolutions: four bands at 10 meter resolution, six bands at 20 meter resolution, and three bands at 60 meter resolution.
+
+Sentinel-2 MSI data have been combined with NASA/USGS Landsat 8 and Landsat 9 OLI data in the Harmonized Landsat Sentinel-2 (HLS) dataset.
